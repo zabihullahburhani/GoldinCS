@@ -8,4 +8,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Guna.Charts.WinForms" Version="1.1.0" />
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.7" />
+    <PackageReference Include="QuestPDF" Version="2025.7.1" />
+    <PackageReference Include="System.Data.OleDb" Version="9.0.9" />
+    <PackageReference Include="System.Globalization" Version="4.3.0" />
+  </ItemGroup>
+
 </Project>
